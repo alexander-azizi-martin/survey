@@ -58,6 +58,10 @@ button[type="submit"]:hover {
   opacity: 0.5;
 }
 
+button[type="submit"]:active {
+  opacity: 0.8;
+}
+
 .center {
   display: flex;
   justify-content: center;
